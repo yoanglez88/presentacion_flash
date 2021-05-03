@@ -1,0 +1,68 @@
+<interfaz id="presentacion">
+	<lenguaje id="español">
+		<tipo id="boton">		
+			<region id="interfaz">
+				<item id="lectura">Lectura</item>
+				<item id="iniciar">Iniciar</item>
+			</region>
+			<region id="informacion">
+				<item id="reglas">Reglas</item>
+				<item id="arbitraje">Arbitraje</item>
+				<item id="casos">Casos</item>
+				<item id="iniciarlectura">Iniciar Lectura</item>
+			</region>
+			<region id="navegacion">
+				<item id="inicio">Inicio</item>
+				<item id="menu">Menu</item>
+				<item id="anterior">Anterior</item>
+				<item id="siguiente">Siguiente</item>	
+				<item id="salida">Salida</item>
+				<item id="salir">Salir</item>
+			</region>
+		</tipo>
+	</lenguaje>
+	<lenguaje id="ingles">
+		<tipo id="boton">
+			<region id="interfaz">
+				<item id="lectura">Reading</item>
+				<item id="iniciar">Initiation</item>
+			</region>
+			<region id="informacion">
+				<item id="reglas">Rules</item>
+				<item id="arbitraje">Arbitrage</item>
+				<item id="casos">Cases</item>
+				<item id="iniciarlectura">Start reading</item>
+			</region>
+			<region id="navegacion">
+				<item id="inicio">Start</item>
+				<item id="menu">Menu</item>
+				<item id="anterior">Before</item>
+				<item id="siguiente">After</item>		
+				<item id="salida">Exit</item>
+				<item id="salir">Leave</item>
+			</region>
+		</tipo>
+	</lenguaje>
+	<lenguaje id="portugues">
+		<tipo id="boton">
+			<region id="interfaz">
+				<item id="lectura">Lendo</item>
+				<item id="iniciar">Começar</item>
+			</region>
+			<region id="informacion">
+				<item id="reglas">Regras</item>
+				<item id="arbitraje">Arbitragem</item>
+				<item id="casos">Casos</item>
+				<item id="iniciarlectura">Comece a ler</item>
+			</region>
+			<region id="navegacion">
+				<item id="inicio">Começar</item>
+				<item id="menu">Cardápio</item>
+				<item id="anterior">Anterior</item>
+				<item id="siguiente">Segue</item>		
+				<item id="salida">Saída</item>
+				<item id="salir">Sair</item>
+			</region>
+		</tipo>
+	</lenguaje>	
+</interfaz>

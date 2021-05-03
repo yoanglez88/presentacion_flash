@@ -1,0 +1,3 @@
+El campo de juego es un rectángulo que mide 16 x 8 m rodeado por una zona libre que debe tener un mínimo de 3 m de ancho en todos sus lados.
+El espacio libre de juego es el espacio que hay por encima del área de juego el cual debe de estar libre de cualquier obstáculo.
+El espacio libre de juego debe medir un mínimo de 7 m de altura desde la superficie de juego.

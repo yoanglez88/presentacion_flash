@@ -1,0 +1,3 @@
+1 caso1regla1albitraje2
+2 caso2regla1albitraje2
+3 caso3regla1albitraje2
